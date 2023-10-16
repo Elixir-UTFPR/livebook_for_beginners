@@ -4,7 +4,8 @@ Computational notebooks are a popular and interactive paradigm for data scientis
 
 Livebook [4] is the computational notebook creation tool implemented in Elixir [5]. The Elixir community has used Livebook in various contexts. We are aware of books [6], courses [7], and blog posts [8] that use computational notebooks written in Livebook as part of the process of learning content.
 
-The goal of this project is to characterize the impact of modifications to Livebook that introduce gamification and motivation mechanisms for learning. The research question we intend to investigate is: What is the impact of changes to Livebook on the perception of learning Elixir by beginners in programming?
+The goal of this project is to **characterize the impact of modifications to Livebook that introduce gamification and motivation mechanisms for learning**. The research question we intend to investigate is: 
+- What is the impact of changes to Livebook on the perception of learning Elixir by beginners in programming?
 
 We plan to implement some gamification mechanics in Livebook, such as Challenges, Levels, and Badges. A more specific research question, therefore, is "How do gamified modifications to Livebook affect the motivation and engagement of beginner programmers in learning Elixir?"
 
