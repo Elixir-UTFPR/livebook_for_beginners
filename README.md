@@ -26,4 +26,10 @@ An (incomplete, as new ones will emerge throughout the work) list of project tas
 6.  Koutmos, Alex. "Elixir Patterns." beta version <https://elixirpatterns.dev/> (2023).
 7.  DockYard Academy <https://academy.dockyard.com/> 2023.
 8. Meyers, Brooklin. Writing Tests in Livebook <https://www.elixirnewbie.com/blog/writing-tests-in-livebook>, 2022.
+9. 
+
+## Team
+
+- [Adolfo Neto](http://adolfont.github.io)
+- [Wesley Scheifer](https://github.com/wesleyscheifer77)
 
