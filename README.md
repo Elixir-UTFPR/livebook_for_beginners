@@ -33,3 +33,8 @@ An (incomplete, as new ones will emerge throughout the work) list of project tas
 - [Adolfo Neto](http://adolfont.github.io)
 - [Wesley Scheifer](https://github.com/wesleyscheifer77)
 
+
+## Funding
+
+Soon
+
